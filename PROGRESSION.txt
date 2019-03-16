@@ -1,27 +1,32 @@
-Thunderclouds: Em 112BPM  -  ABC ±¸Á¶ 4CHORDS
-*¼ýÀÚÇÏ³ª ÇÑ¸¶µð*
+Thunderclouds: Em 112BPM  -  ABC êµ¬ì¡° 4CHORDS
+*ìˆ«ìží•˜ë‚˜ í•œë§ˆë””*
 V1:  1 - 1 - 6 - 6   -   1 - 1 - 6 - 7
 V2:  3 - 3 - 6 - 6   -   3 - 3 - 6 - 7
 C:   1 - 6 - 3 - 7  -    1 - 6 - 3 - 7
 
-Sunflower: D 90 BPM - AAA ±¸Á¶ 3CHORDS
-*¼ýÀÚÇÏ³ª ÇÑ¸¶µð*
+Sunflower: D 90 BPM - AAA êµ¬ì¡° 3CHORDS
+*ìˆ«ìží•˜ë‚˜ í•œë§ˆë””*
 I:     1 - 1 - 4 - 4  -  2 - 2 - 4 - 4
 V1:   1 - 1 - 4 - 4  -  2 - 2 - 4 - 4
 V2:   1 - 1 - 4 - 4   - 2 - 2 - 4 - 4
 B:     1 - 1 - 4 - 4
 C:     1 - 1 - 4 - 4  -  2 - 2 - 4 - 4
 
-Genius: Bm 79BPM - ABC±¸Á¶ 6CHORDS
-*¼ýÀÚÇÏ³ª ÇÑ¹Ú*
+Genius: Bm 79BPM - ABCêµ¬ì¡° 6CHORDS
+*ìˆ«ìží•˜ë‚˜ í•œë°•*
 I1: 1-1-1-1  5M-5M-5M-5M 1-1-1-1  5M-5M-5M-5M
 I2: 7-7-7-7  4M-4M-4M-4M 6-6-6-6  2M-2M-2M-5M
 V: 1-1-1-1  5M-5M-5M-5M  7-7-7-7  4-4-7-7 (X2)
 C: 1------- 5M--------  7--------4-4-7-7 (X2)
 
-happier: F 100BPM - AAA±¸Á¶ 4CHORDS
-*¼ýÀÚÇÏ³ª ÇÑ¹Ú*
+happier: F 100BPM - AAAêµ¬ì¡° 4CHORDS
+*ìˆ«ìží•˜ë‚˜ í•œë°•*
 I: 6-6-6-5   1-1-1-1   4-4-4-4   4-4-4-4 X2
 V: 6-6-6-5  1-1-1-1    4-4-4-4   4-4-4-5 X2
 B: 6-6-6-5  1-1-1-1    4-4-4-4   4-4-4-5 X2
 C: 6-6-6-5  1-1-1-1    4-4-4-4   4-4-4-5 X2
+
+Cheap Thrills: Fm 90BPM - AAAêµ¬ì¡° 4CHORDS
+*ìˆ«ìží•˜ë‚˜ í•œë°•*
+1-1-6-6  3-3-7-7
+
